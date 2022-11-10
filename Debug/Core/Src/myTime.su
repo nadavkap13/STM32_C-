@@ -1,0 +1,3 @@
+../Core/Src/myTime.cpp:7:1:Time::Time(int, int, int)	24	static
+../Core/Src/myTime.cpp:13:1:Time::Time()	16	static
+../Core/Src/myTime.cpp:18:13:const char* Time::toString()	24	static
